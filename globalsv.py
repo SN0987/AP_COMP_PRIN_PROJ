@@ -1,0 +1,5 @@
+
+
+WIDTH = 1024
+HEIGHT = 608
+TILE_SIZE = 32
